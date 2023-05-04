@@ -22,6 +22,7 @@
 ### Test cases
 ### Selenium
 ### Java
+- Currency Converter Program using web scraping to extract exchange rate from Google [Link to project](https://github.com/MichalCiesiolka/currencyConverter)
 ### SQL
 
 ## Books
