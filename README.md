@@ -13,6 +13,14 @@
 ## About me
 
 ## Skills and Tools
+- Manual testing
+- Jira - documenting bugs, issue tracking 
+- Selenium - basics of automation testing of web applications with Python
+- Python - daily use for algorithmic tasks at university
+- Java - basics of Java language
+- Postman - REST API testing
+- GitHub
+- MySQL
 
 ## My Projects
 ### Bug reports
