@@ -1,8 +1,7 @@
 # Portfolio
 
 - [About me](#about-me)
-- [Skills](#skills)
-- [Tools](#tools)
+- [Skills and Tools](#skills-and-tools)
 - [My Projects](#my-projects)
   * [Bug reports](#bug-reports)
   * [Test cases](#test-cases)
@@ -13,9 +12,7 @@
 
 ## About me
 
-## Skills
-
-## Tools
+## Skills and Tools
 
 ## My Projects
 ### Bug reports
