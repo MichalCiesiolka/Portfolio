@@ -24,6 +24,7 @@
 
 ## My Projects
 ### Bug reports
+- Reports of bugs found on Polish Primark website in Jira [Link to bug reports](https://github.com/MichalCiesiolka/Testing-Portfolio/tree/main/JiraBugReports)
 ### Test cases
 ### Selenium
 ### Java
