@@ -27,6 +27,7 @@
 - Reports of bugs found on Polish Primark website in Jira [Link to bug reports](https://github.com/MichalCiesiolka/Testing-Portfolio/tree/main/JiraBugReports)
 ### Test cases
 ### Selenium
+- A simple Framework for website testing using Selenium and pytest [Link to project](https://github.com/MichalCiesiolka/PrimarkTestsFramework)
 ### Java
 - Currency Converter Program using web scraping to extract exchange rate from Google [Link to project](https://github.com/MichalCiesiolka/currencyConverter)
 ### SQL
