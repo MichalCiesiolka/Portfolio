@@ -26,6 +26,7 @@
 ### Bug reports
 - Reports of bugs found on Polish Primark website in Jira [Link to bug reports](https://github.com/MichalCiesiolka/Testing-Portfolio/tree/main/JiraBugReports)
 ### Test cases
+- Test cases for Primark website [Link to test cases](https://github.com/MichalCiesiolka/Portfolio/blob/main/PrimarkTestCases/obraz_2023-07-22_202044514.png)
 ### Selenium
 - A simple Framework for website testing using Selenium and pytest [Link to project](https://github.com/MichalCiesiolka/PrimarkTestsFramework)
 ### Java
