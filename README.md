@@ -2,7 +2,7 @@
 
 - [About me](#about-me)
 - [Skills and Tools](#skills-and-tools)
-- [My Projects](#my-projects)
+- [My Experience](#my-experience)
   * [Bug reports](#bug-reports)
   * [Test cases](#test-cases)
   * [Selenium](#selenium)
@@ -22,7 +22,7 @@
 - GitHub
 - MySQL
 
-## My Projects
+## My Experience
 ### Bug reports
 - Reports of bugs found on Polish Primark website in Jira [Link to bug reports](https://github.com/MichalCiesiolka/Testing-Portfolio/tree/main/JiraBugReports)
 ### Test cases
