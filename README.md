@@ -11,6 +11,7 @@
 - [Books](#software-testing-books-i-have-read)
 
 ## About me
+I am Computer Science Student with a strong passion for both programming and software testing. Proficient in Python, I use it daily not only for programming tasks but also for conducting various testing activities to ensure the quality of software products. Driven by my curiosity and enthusiasm, I find joy in exploring the intricate details of software testing and have gained valuable experience in documenting bugs and tracking issues using Jira. My programming background allows me to approach testing with a developer's mindset, enabling me to identify potential defects more effectively and work collaboratively with development teams to implement solutions. In addition to manual testing, I have a solid foundation in automation testing using Selenium and pytest. I have developed a simple Framework for website testing using Selenium, which has further enhanced my understanding of automated testing techniques. While I am still exploring Java, I have successfully applied it in a project involving a Currency Converter Program that utilizes web scraping to extract exchange rates from Google. 
 
 ## Skills and Tools
 - Python - daily use
