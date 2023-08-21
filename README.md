@@ -26,6 +26,8 @@ I am Computer Science Student with a strong passion for both programming and sof
 ## My Experience
 ### Python
 - Pomodoro Timer - versatile and user-friendly time management tool inspired by the Pomodoro Technique. It enables users to customize work and break intervals, offers visual and auditory alerts, tracks statistics, and even allows saving preferences to an external configuration file for seamless continuity.  [Link to project](https://github.com/MichalCiesiolka/PythonPomodoroTimer/tree/main)
+### Django
+- To-Do List - task management system designed to empower users with efficient task tracking and organization. With features such as user authentication, authorization, and the ability to create, update, delete, and finish tasks, it offers a comprehensive solution for users to manage their tasks effectively. Task attributes including ID, name, description, creator, deadlines, and timestamps enable users to stay organized, while administrators have special privileges for seamless task management. 
 ### Bug reports
 - Reports of bugs found on Polish Primark website in Jira [Link to bug reports](https://github.com/MichalCiesiolka/Testing-Portfolio/tree/main/JiraBugReports)
 ### Test cases
