@@ -28,6 +28,7 @@ Greetings! I'm a passionate Computer Science student with a strong foundation in
 - To-Do List - task management system designed to empower users with efficient task tracking and organization. With features such as user authentication, authorization, and the ability to create, update, delete, and finish tasks, it offers a comprehensive solution for users to manage their tasks effectively. Task attributes including ID, name, description, creator, deadlines, and timestamps enable users to stay organized, while administrators have special privileges for seamless task management. [Link to project](https://github.com/MichalCiesiolka/DjangoToDoList)
 ### Flask
 - Currency Converter - built using the Flask web framework and BeautifulSoup to scrape Google for current exchange rates. [Link to project](https://github.com/MichalCiesiolka/FlaskCurrencyConverter)
+- Big project - Social media platform utilizing AI image classification
 ### Selenium
 - A simple Framework for website testing using Selenium and pytest [Link to project](https://github.com/MichalCiesiolka/PrimarkTestsFramework)
 ### Bug reports
